@@ -5,7 +5,7 @@ This script generates all variables of the first password segment keeping the ta
 ## Example :
 
 <h> Source password: 123QQ
-Need generate all variables with keeping the tail QQ 
+<br> Need generate all variables with keeping the tail QQ </br>
 </h>
 
 <ol> Input:
