@@ -1,5 +1,5 @@
 # PASSGEN
-This script generates all variables of the first password segment keeping the tail 
+This script generates all characters of the first password segment keeping the tail 
 
 
 ## Example :
