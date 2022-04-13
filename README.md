@@ -24,3 +24,9 @@ This script generates all variables of the first password segment keeping the ta
 <li> 321QQ </li>
 
 </ol>
+
+### Installation:
+
+1. `pip install more-itertools`
+2. `git clone https://github.com/Kirrrkaz/PASSGEN`
+
